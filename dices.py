@@ -5,7 +5,7 @@ def probability_of_sum(total:int, dice1, dice2):
 
     """
     Brief: 
-    Basic probability - Die cast
+    Basic probability - Dice cast
     Suppose a pair of fair 6-sided dice are thrown. 
     What is the probability that the sum of the rolls is 6? (Answer as a simple fraction of integers)
     reference: https://statweb.stanford.edu/~susan/courses/s60/split/node65.html
