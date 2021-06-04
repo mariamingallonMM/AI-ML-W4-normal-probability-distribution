@@ -3,6 +3,8 @@
 import numpy as np
 import scipy.stats
 import math
+from scipy.stats import multivariate_normal
+
 
 def normal_dist(x , mean , var):
 
@@ -47,7 +49,6 @@ def scipy_norm_pdf(x, mean, sd):
 
     return prob, prob_dist
  
-
 
 x = 4
 mean_yes = 10
